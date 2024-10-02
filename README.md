@@ -11,7 +11,7 @@ I am a PhD student in Learning sciences, systems engineer, and developer.
 ### Find me on the web:
 
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/107574864086421450?domain=https%3A%2F%2Ftooting.ch&label=tooting&style=social)](https://tooting.ch/@jeremy_la_scala)
-![ResearchGate](https://img.shields.io/badge/ResearchGate-grey?logo=researchgate&link=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FJeremy-La-Scala)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-grey?logo=researchgate&link=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FJeremy-La-Scala)](https://www.researchgate.net/profile/Jeremy-La-Scala)
 
 
 <!--
